@@ -7,3 +7,4 @@
 - [Using tree algorithms to predict if a person has heart desease or not](./Predicao%20de%20doenca%20cardiaca%20coronaria.ipynb)
 - [Use of transfer of learning from a Resnet-50 Convolutional Network for the prediction of pests in a tomato plantation](./Identificador%20de%20Pragas.ipynb)
 - [Segmentation of Strawberry Disease Instances using YOLCAT++](./Segmentacao%20de%20Instancias%20de%20Doencas%20de%20Morango.ipynb)
+- [Mushrooms, poisonous or not](https://github.com/Matheus2608/Mushrooms-Project)
